@@ -25,5 +25,11 @@
   "bugs": {
     "url": "https://github.com/wumke/react-native-exit-app/issues"
   },
-  "homepage": "http://watchwimswork.be"
+  "homepage": "http://watchwimswork.be",
+  "files": [
+    "android",
+    "ios",
+    "index.js",
+    "react-native-exit-app.podspec"
+  ]
 }
